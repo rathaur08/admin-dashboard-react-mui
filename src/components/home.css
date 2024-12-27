@@ -1,0 +1,12 @@
+body{
+  background-color: rgb(243, 240, 237);
+}
+
+.paddingall{
+  padding: 10px;
+}
+
+.iconstyle{
+  margin-top: 23px !important;
+  margin-left: 23px !important;
+}
